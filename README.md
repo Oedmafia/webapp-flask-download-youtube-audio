@@ -1,7 +1,7 @@
 # webapp-flask-download-youtube-audio
 Web app for download youtube áudio.
 
-# version 0.0.1
+# version 1.0.0
 
 Desenvolvimento iniciado em 24/07/2024.
 
